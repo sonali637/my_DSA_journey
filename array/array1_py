@@ -20,3 +20,5 @@ for x in val:
 print('\n')
 print(val.typecode)
 
+
+
